@@ -1,0 +1,100 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container
+{
+    padding-bottom: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: linear-gradient(to right top, #d16ba5, #cc88c3, #c7a3d9, #c6bce7, #ced2ef, #cfdbf6, #d1e4fb, #d5edff, #c2efff, #abf2ff, #92f5ff, #79f8fd);
+    
+}
+
+h2
+{
+    padding: 10px;
+
+}
+
+.box
+{
+    padding: 15px;
+    border: 3px solid rgba(219, 118, 233, 0.815);
+    background-color: white;
+    
+      
+
+}
+
+.input-field
+{
+    margin-right: 14px;
+}
+
+.bttn
+{
+    margin-right: 66px;
+}
+
+.note
+{
+    margin-left: -14px;
+}
+
+
+
+.right
+{
+    border-left: 3px solid rgba(230, 127, 243, 0.815);
+
+}
+
+.card
+{
+    border: 3px solid rgba(230, 127, 243, 0.815) !important;
+    padding: 4px;
+}
+
+.first img
+{
+    padding: 2px;
+    margin-bottom: -5px;
+    height: 160px;
+    width: 155px;
+}
+
+.card-title
+{
+    width: 320px;
+    padding-bottom: 2px;
+    font-weight: 400;
+    border-bottom: 3px solid rgba(230, 127, 243, 0.815);
+}
+
+.first
+{
+    padding-top: 4px;
+    padding-left: 4px;
+    border-right: 3px solid rgba(230, 127, 243, 0.815);
+
+}
+
+
+.sec
+{
+    
+    margin-left: 182px;
+    margin-top: -166px;
+    padding-top: 2px;
+    
+}
+
+.sec p
+{
+    line-height: 10px;
+    
+}
+
