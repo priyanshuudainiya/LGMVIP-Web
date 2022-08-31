@@ -97,14 +97,14 @@
 
 .search
 {
-    color: rgb(253, 253, 108);
+    color: #7df3ed;
     text-align: center;
     margin-top: 8px;
 }
 
 #abt_hr
 {
-    color: rgb(253, 253, 108);
+    color: #7df3ed;
 }
 
 h3
@@ -161,7 +161,7 @@ p
 
 header
 {
-    color: rgb(253, 253, 108);
+    color: #7df3ed;
     text-shadow:  #000 0px 0px 6px,   #000 0px 0px 6px,   #000 0px 0px 6px;
     text-align: center;
     margin-bottom: -5px;
