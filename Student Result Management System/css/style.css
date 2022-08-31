@@ -1,0 +1,188 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/* --------------------------Nav-Bar---------------------------------------- */
+
+.navbar
+{
+    margin-left: -12px;
+    margin-right: -12px;
+}
+
+.bx
+{
+    color: white;
+}
+
+
+.logo
+{
+    width: 50px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+/* --------------------------Nav-Bar-End---------------------------------------- */
+
+/* --------------------------Home-Page---------------------------------------- */
+
+.homeBack
+{
+    background: url("../image/class.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow-y: auto;
+
+}
+
+.getData
+{
+    color: white;
+    border: 1px solid white;
+    margin: 60px;
+    padding: 5px;
+    align-items: center;
+    height: 355px;
+    width: 465px !important;
+}
+
+
+
+/* --------------------------Home-Page-End---------------------------------------- */
+
+/* --------------------------Contact-Us---------------------------------------- */
+
+.contactBack
+{
+    background: url("../image/logo-cntct.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow-y: auto;
+
+}
+
+.getMessage
+{
+    color: white;
+    border: 1px solid white;
+    margin: 60px;
+    padding: 5px;
+    align-items: center;
+    height: 650px;
+    width: 800px !important;
+}
+
+/* --------------------------Contact-us-End---------------------------------------- */
+
+/* --------------------------About-Us----------------------------------------------- */
+
+.aboutBack
+{
+    background: url("../image/logo-abt.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow-y: auto;
+
+}
+
+.search
+{
+    color: rgb(253, 253, 108);
+    text-align: center;
+    margin-top: 8px;
+}
+
+#abt_hr
+{
+    color: rgb(253, 253, 108);
+}
+
+h2
+{
+    padding:10px;
+    text-shadow:  #000 0px 0px 6px,   #000 0px 0px 6px,   #000 0px 0px 6px;
+}
+
+h3
+{
+    font-size: 2.3rem;
+    padding:10px;
+    padding-left: 5rem;
+    color: rgb(253, 253, 108);
+    text-shadow:  #000 0px 0px 6px,   #000 0px 0px 6px,   #000 0px 0px 6px;
+}
+
+p
+{
+    color: white;
+    font-size: 1rem;
+    padding: 20px;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    text-shadow:  rgb(255, 255, 255) 0px 0px 1px,   rgb(255, 255, 255) 0px 0px 1px,   rgb(255, 255, 255) 0px 0px 1px;
+}
+
+
+/* -----------------------About-Us-End--------------------------------------- */
+
+/* --------------------------Admin-login---------------------------------------- */
+
+.adminlogBack
+{
+    background: url("../image/adminlog.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow-y: auto;
+    margin-left: 200px;
+
+}
+
+.getlogin
+{
+    color: white;
+    border: 1px solid white;
+    margin: 60px;
+    padding: 5px;
+    align-items: center;
+    height: 355px;
+    width: 465px !important;
+    margin-left: 735px !important;
+}
+
+#label_login
+{
+    text-align: center;
+}
+
+/* --------------------------Admin-login-End---------------------------------------- */
+
+header
+{
+    color: rgb(253, 253, 108);
+    text-shadow:  #000 0px 0px 6px,   #000 0px 0px 6px,   #000 0px 0px 6px;
+    text-align: center;
+    margin-bottom: -5px;
+}
+
+.bttn
+{
+    width: 100%;
+}
+
+
+
+
+
+/* ---------------------------Admin-dash.php------------------------ */
