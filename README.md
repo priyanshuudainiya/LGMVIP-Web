@@ -1,3 +1,4 @@
+This is an repository for LetsGrowMore Virtual Internship Program.
 # LGMVIP-Web
 * Todo List - https://priyanshuudainiya.github.io/LGMVIP-Web/Todo
 * Enrollment Form - https://priyanshuudainiya.github.io/LGMVIP-Web/Form
